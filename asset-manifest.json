@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sugrobov.github.io/csb-uu08lx/static/css/main.758f56bf.chunk.css",
+    "main.js": "https://sugrobov.github.io/csb-uu08lx/static/js/main.ec4ff4b5.chunk.js",
+    "main.js.map": "https://sugrobov.github.io/csb-uu08lx/static/js/main.ec4ff4b5.chunk.js.map",
+    "runtime-main.js": "https://sugrobov.github.io/csb-uu08lx/static/js/runtime-main.c73a6a6f.js",
+    "runtime-main.js.map": "https://sugrobov.github.io/csb-uu08lx/static/js/runtime-main.c73a6a6f.js.map",
+    "static/js/2.ec0cede8.chunk.js": "https://sugrobov.github.io/csb-uu08lx/static/js/2.ec0cede8.chunk.js",
+    "static/js/2.ec0cede8.chunk.js.map": "https://sugrobov.github.io/csb-uu08lx/static/js/2.ec0cede8.chunk.js.map",
+    "index.html": "https://sugrobov.github.io/csb-uu08lx/index.html",
+    "static/css/main.758f56bf.chunk.css.map": "https://sugrobov.github.io/csb-uu08lx/static/css/main.758f56bf.chunk.css.map",
+    "static/js/2.ec0cede8.chunk.js.LICENSE.txt": "https://sugrobov.github.io/csb-uu08lx/static/js/2.ec0cede8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c73a6a6f.js",
+    "static/js/2.ec0cede8.chunk.js",
+    "static/css/main.758f56bf.chunk.css",
+    "static/js/main.ec4ff4b5.chunk.js"
+  ]
+}
